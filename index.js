@@ -3,3 +3,4 @@ let b = 2;
 if (a === b) {
   console.log("equal");
 }
+let cannot_edit = 1;
